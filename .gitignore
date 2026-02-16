@@ -1,0 +1,6 @@
+.DS_Store
+/cache/
+spatial_data_medium.gpkg
+output/sparse_trajectories_medium.parquet
+garden-city.gpkg
+output/
